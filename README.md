@@ -19,6 +19,10 @@ npm install
 ```
 
 ```
+create .env.js through env.example.js
+```
+
+```
 npm run dev
 ```
 
