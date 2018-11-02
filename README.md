@@ -7,12 +7,16 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-node
+Docker/docker-compóse
 ```
 
 ### Installing
 
 Step by step
+
+```
+docker-compose run node sh
+```
 
 ```
 npm install
@@ -22,6 +26,3 @@ npm install
 create .env.js through env.example.js
 ```
 
-```
-npm run dev
-```
