@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)]
+[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GSabadini/client-vue-crud-customers/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GSabadini/client-vue-crud-customers/?branch=master)
 
 ## Getting Started
 
