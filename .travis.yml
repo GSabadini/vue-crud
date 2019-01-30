@@ -6,4 +6,4 @@ cache:
     "node_modules"
 
 before_script:
-  - sudo npm run build
+  - npm run build
