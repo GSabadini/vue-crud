@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
