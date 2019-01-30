@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)
+[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)]
 
 ## Getting Started
 
