@@ -12,7 +12,7 @@ import { dateFormatBRLocale } from './filters/date-format'
 import { truncation } from './filters/truncation'
 import { sexFormat } from './filters/sex-format'
 import VueSweetalert2 from 'vue-sweetalert2'
-import Env from '../.env'
+import Env from '../.env.example'
 
 Vue.filter('dateFormatBRLocale', dateFormatBRLocale)
 Vue.filter('truncation', truncation)
