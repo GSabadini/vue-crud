@@ -31,7 +31,7 @@
     </v-navigation-drawer>
     <v-toolbar ligth app fixed class="elevation-1" color="grey lighten-4">
       <v-toolbar-side-icon color="primary" @click.stop="toogleDrawer()"></v-toolbar-side-icon>
-      <v-toolbar-title>Processo Seletivo - CRMALL</v-toolbar-title>
+      <v-toolbar-title>CRUD Customers</v-toolbar-title>
     </v-toolbar>
   </div>
 </template>

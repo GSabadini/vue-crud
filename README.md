@@ -1,24 +1,24 @@
-[![Build Status](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master)](https://travis-ci.com/GSabadini/client-vue-crud-customers.svg?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GSabadini/client-vue-crud-customers/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GSabadini/client-vue-crud-customers/?branch=master)
-
-## Getting Startedx
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+<h1 align="center">Welcome to Vue Crud 👋</h1>
 
 ## API repository
 
-https://github.com/GSabadini/api-lumen-crud-customers
+- [Lumen Crud](https://github.com/GSabadini/lumen-crud)
+
+## Getting Started
+
+- These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+- What things you need to install the software and how to install them
 
 ```
-Docker and docker-compose
+Docker and docker-compose or node
 ```
 
 ### Installing
 
-Step by step
+- Step by step
 
 ```
 docker-compose run node sh
@@ -32,3 +32,14 @@ npm install
 create .env.js through env.example.js
 ```
 
+```
+docker-compose up -d
+```
+
+- Step by step node
+
+```
+npm install
+```
+```
+npm run serve
